@@ -43,9 +43,17 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Grade
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abokamal09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats and Grade" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abokamal09&theme=algolia" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
   <table>
     <tr>
       <td align="center" style="border: none;">
